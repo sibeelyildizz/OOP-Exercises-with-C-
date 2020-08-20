@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\main.cpp
+	<iostream>
+
+1575800956 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\src\oyuncu.cpp
+	"oyuncu.h"
+	<iostream>
+
+1575800863 c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\include\oyuncu.h
+	<string>
+
+1575801019 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\src\musabaka.cpp
+	"musabaka.h"
+
+1575800689 c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\include\musabaka.h
+	"oyuncu.h"
+	<iostream>
+
+1575802025 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\src\futbol.cpp
+	"futbol.h"
+
+1575801857 c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\oyuncu\include\futbol.h
+	<musabaka.h>
+	<iostream>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575997910 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\opoverclass\main.cpp
+	<iostream>
+	"opOverClass.h"
+
+1575998319 source:c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\opoverclass\src\opoverclass.cpp
+	"opOverClass.h"
+	<iostream>
+
+1575998337 c:\users\sibel\desktop\2019-2020\c++\oopsýnavçözüm\opoverclass\include\opoverclass.h
+

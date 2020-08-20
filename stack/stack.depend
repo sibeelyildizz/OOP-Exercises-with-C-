@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576658308 source:c:\users\sibel\desktop\2019-2020\c++\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1577254964 source:c:\users\sibel\desktop\2019-2020\c++\stack\src\stack.cpp
+	"stack.h"
+
+1577255474 c:\users\sibel\desktop\2019-2020\c++\stack\include\stack.h
+	<bufferType.h>
+
+1577256097 c:\users\sibel\desktop\2019-2020\c++\stack\include\buffertype.h
+
+1577254943 source:c:\users\sibel\desktop\2019-2020\c++\stack\src\buffertype.cpp
+	"bufferType.h"
+
+1577255415 source:c:\users\sibel\desktop\2019-2020\c++\stack\src\fifo.cpp
+	"fifo.h"
+
+1577256447 c:\users\sibel\desktop\2019-2020\c++\stack\include\fifo.h
+	<bufferType.h>
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1572942734 source:/home/sedat/oop_workspace/2019/employeeProject/src/fullTimeEmployee.cpp
+	"fullTimeEmployee.h"
+
+1572942095 /home/sedat/oop_workspace/2019/employeeProject/include/fullTimeEmployee.h
+	<personType.h>
+
+1572942772 /home/sedat/oop_workspace/2019/employeeProject/include/personType.h
+	<iostream>
+	<string>
+
+1572942339 source:/home/sedat/oop_workspace/2019/employeeProject/src/partTimeEmployee.cpp
+	"partTimeEmployee.h"
+
+1572942326 /home/sedat/oop_workspace/2019/employeeProject/include/partTimeEmployee.h
+	<personType.h>
+
+1572942360 source:/home/sedat/oop_workspace/2019/employeeProject/src/personType.cpp
+	"personType.h"
+
+1572942633 source:/home/sedat/oop_workspace/2019/employeeProject/main.cpp
+	<iostream>
+	<partTimeEmployee.h>
+	<fullTimeEmployee.h>
+
+1572942633 source:c:\users\sibel\desktop\c++\employeeproject\main.cpp
+	<iostream>
+	<partTimeEmployee.h>
+	<fullTimeEmployee.h>
+
+1572942326 c:\users\sibel\desktop\c++\employeeproject\include\parttimeemployee.h
+	<personType.h>
+
+1572942772 c:\users\sibel\desktop\c++\employeeproject\include\persontype.h
+	<iostream>
+	<string>
+
+1572942095 c:\users\sibel\desktop\c++\employeeproject\include\fulltimeemployee.h
+	<personType.h>
+
+1572942339 source:c:\users\sibel\desktop\c++\employeeproject\src\parttimeemployee.cpp
+	"partTimeEmployee.h"
+
+1572942360 source:c:\users\sibel\desktop\c++\employeeproject\src\persontype.cpp
+	"personType.h"
+
+1572942928 source:c:\users\sibel\desktop\c++\employeeproject\src\fulltimeemployee.cpp
+	"fullTimeEmployee.h"
+

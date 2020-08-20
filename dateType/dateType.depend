@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573027912 source:c:\users\sibel\desktop\c++\datetype\src\datetype.cpp
+	"dateType.h"
+	<iostream>
+
+1573027340 c:\users\sibel\desktop\c++\datetype\include\datetype.h
+
+1573027850 source:c:\users\sibel\desktop\c++\datetype\main.cpp
+	<iostream>
+	"dateType.h"
+
+1573028195 source:c:\users\sibel\desktop\c++\datetype\src\persontype.cpp
+	"personType.h"
+
+1573028012 c:\users\sibel\desktop\c++\datetype\include\persontype.h
+	<iostream>
+	<string>
+

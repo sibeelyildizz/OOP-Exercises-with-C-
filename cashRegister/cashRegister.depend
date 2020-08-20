@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572423813 source:c:\users\sibel\desktop\c++\cashregister\main.cpp
+	<iostream>
+	<dispenserType.h>
+	<cashRegister.h>
+
+1572423918 source:c:\users\sibel\desktop\c++\cashregister\src\cashregister.cpp
+	"cashRegister.h"
+
+1572423908 c:\users\sibel\desktop\c++\cashregister\include\cashregister.h
+
+1572424332 source:c:\users\sibel\desktop\c++\cashregister\src\dispensertype.cpp
+	"dispenserType.h"
+
+1572424231 c:\users\sibel\desktop\c++\cashregister\include\dispensertype.h
+

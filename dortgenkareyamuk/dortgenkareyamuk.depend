@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574754984 source:c:\users\sibel\desktop\c++\dortgenkareyamuk\src\yamuk.cpp
+	"Yamuk.h"
+
+1574755646 c:\users\sibel\desktop\c++\dortgenkareyamuk\include\yamuk.h
+	<Dortgen.h>
+
+1574755646 c:\users\sibel\desktop\c++\dortgenkareyamuk\include\dortgen.h
+
+1574755688 source:c:\users\sibel\desktop\c++\dortgenkareyamuk\src\dortgen.cpp
+	"Dortgen.h"
+

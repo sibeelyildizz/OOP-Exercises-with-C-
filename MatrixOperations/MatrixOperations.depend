@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1571870919 source:c:\users\osman\documents\codeblocksprojects\matrixoperations\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1571871040 c:\users\osman\documents\codeblocksprojects\matrixoperations\include\matrix.h
+
+1571871235 source:c:\users\osman\documents\codeblocksprojects\matrixoperations\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+
+1572162238 source:c:\users\sibel\desktop\matrixoperations\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1572162220 c:\users\sibel\desktop\matrixoperations\include\matrix.h
+
+1572195784 source:c:\users\sibel\desktop\matrixoperations\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<math.h>
+
+1572281942 source:c:\users\sibel\desktop\c++\matrixoperations\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<math.h>
+
+1572281811 c:\users\sibel\desktop\c++\matrixoperations\include\matrix.h
+
+1572281958 source:c:\users\sibel\desktop\c++\matrixoperations\main.cpp
+	<iostream>
+	"Matrix.h"
+

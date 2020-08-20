@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572199322 source:c:\users\sibel\desktop\c++\clocktype\main.cpp
+	<iostream>
+	<clockType.h>
+
+1572198969 c:\users\sibel\desktop\c++\clocktype\include\clocktype.h
+	<string>
+	<iostream>
+
+1572198940 source:c:\users\sibel\desktop\c++\clocktype\src\clocktype.cpp
+	"clockType.h"
+

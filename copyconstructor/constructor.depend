@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574236371 source:c:\users\sibel\desktop\c++\copyconstructor\main.cpp
+	<iostream>
+
+1574236403 source:c:\users\sibel\desktop\c++\copyconstructor\src\pointerdataclass.cpp
+	"pointerDataClass.h"
+
+1574236248 c:\users\sibel\desktop\c++\copyconstructor\include\pointerdataclass.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571495084 source:c:\users\sibel\desktop\c++\dosyaiþlemleri\main.cpp
+	<iostream>
+	<fstream>
+

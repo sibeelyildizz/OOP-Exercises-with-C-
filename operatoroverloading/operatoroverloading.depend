@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1575445887 source:c:\users\sibel\desktop\c++\operatoroverloading\main.cpp
+	<iostream>
+	"cNumber.h"
+
+1575445985 source:c:\users\sibel\desktop\c++\operatoroverloading\src\cnumber.cpp
+	"cNumber.h"
+	<iostream>
+
+1575445986 c:\users\sibel\desktop\c++\operatoroverloading\include\cnumber.h
+
+1575963674 source:c:\users\sibel\desktop\2019-2020\c++\operatoroverloading\src\cnumber.cpp
+	"cNumber.h"
+	<iostream>
+
+1575963880 c:\users\sibel\desktop\2019-2020\c++\operatoroverloading\include\cnumber.h
+	<iostream>
+
+1575447549 source:c:\users\sibel\desktop\2019-2020\c++\operatoroverloading\main.cpp
+	<iostream>
+	"cNumber.h"
+
